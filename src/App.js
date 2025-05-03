@@ -5,6 +5,10 @@ function App() {
   return (
     <div>
       <Dashboard/>
+      <Dashboard/>
+
+      {/* sksklssl
+       */}
     </div>
   )
 }
